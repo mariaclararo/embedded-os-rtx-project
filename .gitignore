@@ -1,0 +1,18 @@
+# Keil build artifacts
+Listings/
+Objects/
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.lnp
+*.htm
+*.build_log.htm
+*.dep
+*.Bak
+
+# User specific settings
+*.uvguix.*
+.vscode/
