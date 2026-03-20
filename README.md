@@ -1,10 +1,10 @@
 # CMSIS RTX Threads - Embedded Real-Time System
 
-A comprehensive embedded systems project demonstrating multi-threaded application development using the CMSIS RTX operating system on an ARM Cortex-M3 microcontroller.
+A embedded systems project demonstrating multi-threaded application development using the CMSIS RTX operating system on an ARM Cortex-M3 microcontroller.
 
 ## 📋 Project Overview
 
-This project implements a real-time embedded system for the **STM32F103RB** microcontroller board (MCB STM32E). Developed for the Embedded Operating Systems (ECOS03) course at UNIFEI,  it showcases advanced threading concepts, real-time task management, and hardware interaction through multiple concurrent threads orchestrated by the CMSIS RTX RTOS.
+This project implements a real-time embedded system for the **STM32F103RB** microcontroller board (MCB STM32E). It showcases advanced threading concepts, real-time task management, and hardware interaction through multiple concurrent threads orchestrated by the CMSIS RTX RTOS.
 
 ### ✨ Key Features
 - **Multi-threaded Architecture**: Multiple concurrent threads for independent subsystem management
